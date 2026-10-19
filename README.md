@@ -257,7 +257,7 @@ Outside Obsidian: [Web Clipper](https://obsidian.md/clipper) for capture,
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) and
 [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) for processing,
 [ripgrep](https://github.com/BurntSushi/ripgrep),
-[NetworkX](https://networkx.org), [Kuzu](https://kuzudb.com) and
+[NetworkX](https://networkx.org), [Kuzu](https://github.com/kuzudb/kuzu) (archived) and
 [Gephi](https://gephi.org) for the graph, and
 [Quartz](https://github.com/jackyzha0/quartz) to publish.
 

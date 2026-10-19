@@ -58,7 +58,7 @@ file-based approach is too much work.
 |---|---|
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Fast enough that most vaults never need an index |
 | [NetworkX](https://networkx.org) | Graph analysis once you have exported an edge list |
-| [Kuzu](https://kuzudb.com) | Embedded graph database, no server |
+| [Kuzu](https://github.com/kuzudb/kuzu) | Embedded graph database, no server. Repository archived in October 2025, see [graph-stores](../docs/track-graph/graph-stores.md) |
 | [Neo4j](https://neo4j.com) | Full graph database. Overkill unless you build on top |
 | [Gephi](https://gephi.org) | Visual graph exploration beyond Obsidian's view |
 | [txtai](https://github.com/neuml/txtai) | 12,931 stars. Semantic search and LLM workflows, if you decide you need embeddings |
